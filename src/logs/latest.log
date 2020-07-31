@@ -1,0 +1,56 @@
+[03:58:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:58:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:58:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:58:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:58:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:58:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:58:43] [main/INFO]: Reloading ResourceManager: Default
+[03:58:44] [Worker-Main-4/INFO]: Loaded 7 recipes
+[03:58:44] [Worker-Main-4/INFO]: Loaded 927 advancements
+[03:58:45] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[03:58:45] [Server thread/INFO]: Loading properties
+[03:58:45] [Server thread/INFO]: Default game type: SURVIVAL
+[03:58:45] [Server thread/INFO]: Generating keypair
+[03:58:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:58:45] [Server thread/INFO]: Using epoll channel type
+[03:58:45] [Server thread/INFO]: Preparing level "world"
+[03:58:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:58:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[03:58:51] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[03:58:52] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[03:58:52] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[03:58:53] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[03:58:53] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[03:58:54] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[03:58:54] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[03:58:55] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[03:58:55] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[03:58:56] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[03:58:56] [Worker-Main-4/INFO]: Preparing spawn area: 11%
+[03:58:57] [Worker-Main-5/INFO]: Preparing spawn area: 18%
+[03:58:57] [Worker-Main-6/INFO]: Preparing spawn area: 18%
+[03:58:58] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[03:58:58] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[03:58:59] [Worker-Main-5/INFO]: Preparing spawn area: 28%
+[03:58:59] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[03:59:00] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[03:59:00] [Worker-Main-5/INFO]: Preparing spawn area: 37%
+[03:59:01] [Worker-Main-6/INFO]: Preparing spawn area: 39%
+[03:59:01] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[03:59:02] [Worker-Main-5/INFO]: Preparing spawn area: 46%
+[03:59:03] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[03:59:03] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[03:59:04] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[03:59:04] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[03:59:05] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[03:59:05] [Worker-Main-5/INFO]: Preparing spawn area: 62%
+[03:59:06] [Worker-Main-4/INFO]: Preparing spawn area: 72%
+[03:59:07] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[03:59:07] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[03:59:07] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[03:59:08] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[03:59:08] [Worker-Main-6/INFO]: Preparing spawn area: 89%
+[03:59:08] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[03:59:09] [Worker-Main-6/INFO]: Preparing spawn area: 96%
+[03:59:09] [Server thread/INFO]: Time elapsed: 18176 ms
+[03:59:09] [Server thread/INFO]: Done (23.626s)! For help, type "help"
