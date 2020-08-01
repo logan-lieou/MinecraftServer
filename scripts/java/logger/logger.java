@@ -1,6 +1,6 @@
 import java.io.*;
 
-class main {
+class logger {
     public static void main(String[] args) throws IOException {
         // all you really have to do is copy the server logs
         // then send those to a remote server
@@ -39,6 +39,6 @@ class main {
        that you want or don't want
 
         */
-       return null;
+        return;
     }
 }

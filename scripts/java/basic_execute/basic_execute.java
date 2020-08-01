@@ -2,7 +2,7 @@
 
 import java.io.IOException;
 
-class main {
+class basic_execute {
 	private static String OS = null;
 
 	public static void main(String[] args) throws IOException {
